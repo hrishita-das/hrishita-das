@@ -31,7 +31,7 @@ Exploring latent-space generative models and learned representations for enhanci
 
 **Topics I'm interested in**
 
-`Generative AI` · `Deep Learning` · `VQ-VAE` · `Representation Learning` · `Transformers` · `Medical Imaging` · `3D MRI` · `Physics-Guided Learning`
+`Generative AI` · `Deep Learning` · `VQ-VAE` · `Representation Learning` · `Transformers` · `Medical Imaging` · `3D MRI` 
 
 
 
@@ -41,12 +41,14 @@ Exploring latent-space generative models and learned representations for enhanci
 
 - **M.Tech — Computer Science & Engineering**
    
-  Indian Institute of Technology Jodhpur  
+  Indian Institute of Technology Jodhpur
+   
   *2025 – 2027*
 
 - **B.E. — Computer Science & Engineering**
   
-  Gujarat Technological University 
+  Gujarat Technological University
+  
   *2021 – 2025*
 
 
