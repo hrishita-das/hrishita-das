@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Hrishita Das
+# Hi , I'm Hrishita 👋
 
 ### M.Tech CSE @ IIT Jodhpur | AI/ML | Generative AI | Medical Imaging
 
