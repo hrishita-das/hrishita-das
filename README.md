@@ -9,12 +9,12 @@ ideas with practical AI/ML applications.
 
 ## 👩‍💻 About Me
 
-- 🎓 **M.Tech CSE @ IIT Jodhpur**, exploring the intersection of AI, research and real-world applications
-- 🤖 Passionate about **Machine Learning, Deep Learning and Generative AI**
-- 🔬 Research interests in **Medical Imaging, Computer Vision and Generative Models**
-- 🧠 Exploring **Transformers, RAG, representation learning and multimodal AI**
-- 💻 Building **research-oriented AI/ML systems** from ideas to working prototypes
-- 🌱 Constantly **learning, experimenting and exploring** new directions in AI
+-  **M.Tech CSE @ IIT Jodhpur**, exploring the intersection of AI, research and real-world applications
+-  Passionate about **Machine Learning, Deep Learning and Generative AI**
+-  Research interests in **Medical Imaging, Computer Vision and Generative Models**
+-  Exploring **Transformers, RAG, representation learning and multimodal AI**
+-  Building **research-oriented AI/ML systems** from ideas to working prototypes
+-  Constantly **learning, experimenting and exploring** new directions in AI
 
 ---
 
