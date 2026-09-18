@@ -85,7 +85,7 @@ Exploring latent-space generative models and learned representations for enhanci
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:hrishitadas.20@gmail.com">
+<a href="mailto:hrishitadas76@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
