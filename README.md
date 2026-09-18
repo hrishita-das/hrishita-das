@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm Hrishita Das
 
 ### M.Tech CSE @ IIT Jodhpur | AI/ML | Generative AI | Medical Imaging
@@ -5,7 +7,7 @@
 My work focuses on building intelligent systems that combine research
 ideas with practical AI/ML applications.
 
----
+</div>
 
 ## 👩‍💻 About Me
 
