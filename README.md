@@ -20,15 +20,18 @@ ideas with practical AI/ML applications.
 
 ## 🔬 Research
 
-My research interests lie at the intersection of **Deep Learning, Generative AI
-and Medical Imaging**.
+My current research focuses on **generative modeling and representation learning for 3D medical imaging**, with an emphasis on **MRI enhancement and synthesis**.
 
-- 3D Medical Image Processing
-- MRI Enhancement and Synthesis
-- Deep Learning for Medical Imaging
-- Generative Models
-- Latent Representation Learning
-- Physics-Guided Deep Learning
+**Currently working in**
+
+🩻 **Low-Field → High-Field MRI Enhancement**  
+*Generative Representation Learning for 3D MRI Enhancement*
+
+Exploring latent-space generative models and learned representations for enhancing **low-field MRI** toward **high-field MRI**, with a focus on preserving anatomical structure and improving image quality.
+
+**Topics I'm interested in**
+
+`Generative AI` · `Deep Learning` · `VQ-VAE` · `Representation Learning` · `Transformers` · `Medical Imaging` · `3D MRI` · `Physics-Guided Learning`
 
 
 
@@ -36,11 +39,13 @@ and Medical Imaging**.
 
 ## 🎓 Background
 
-- **M.Tech — Computer Science & Engineering**  
+- **M.Tech — Computer Science & Engineering**
+   
   Indian Institute of Technology Jodhpur  
   *2025 – 2027*
 
 - **B.E. — Computer Science & Engineering**
+  
   Gujarat Technological University 
   *2021 – 2025*
 
@@ -48,31 +53,12 @@ and Medical Imaging**.
 
 ## 🛠️ Languages & Tools
 
-### 💻 Programming Languages
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,sql" />
-</p>
-
-### 🤖 AI / ML & Deep Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-### 🧠 Generative AI & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,pytorch,tensorflow,sklearn,git,github,linux,vscode,docker" />
 </p>
 
 `Transformers` · `LLMs` · `RAG` · `FAISS` · `Embeddings` · `Computer Vision`
 
-### 🔧 Development & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
-</p>
 
 ---
 
@@ -89,27 +75,23 @@ and Medical Imaging**.
 ---
 
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<a href="https://www.linkedin.com/in/hrishita-das">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:hrishitadas.20@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="mailto:m25cse014@iitj.ac.in">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  <img src="https://img.shields.io/badge/IIT%20Jodhpur-Email-8B0000?style=flat&logo=gmail&logoColor=white" alt="IIT Jodhpur Email"/>
 </a>
 
 </p>
-
-**LinkedIn:** https://www.linkedin.com/in/hrishita-das  
-**Email:** hrishitadas.20@gmail.com  
-**IIT Jodhpur:** m25cse014@iitj.ac.in
 
 ---
 
