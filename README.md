@@ -14,7 +14,7 @@ ideas with practical AI/ML applications.
 - 🔬 Research interests in **Medical Imaging, Computer Vision and Generative Models**
 - 🧠 Exploring **Transformers, RAG, representation learning and multimodal AI**
 - 💻 Building **research-oriented AI/ML systems** from ideas to working prototypes
-- 🌱 Constantly learning, experimenting and exploring new directions in AI
+- 🌱 Constantly **learning, experimenting and exploring** new directions in AI
 
 ---
 
